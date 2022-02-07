@@ -113,7 +113,7 @@ author:
     #   url: "tchoskey@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://your-website.com"
+      url: "https://www.linkedin.com/in/shiqi-he-06807b15b/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tctower"
@@ -123,7 +123,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://your-website.com"
+      url: "https://www.linkedin.com/in/shiqi-he-06807b15b/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tctower"
