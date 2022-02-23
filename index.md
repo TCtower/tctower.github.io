@@ -55,6 +55,12 @@ sss -->
 ## Recent Publications
 
 <ul>
+ <li>
+<strong>Sign Bit is Enough: A Learning Synchronization Framework for Multi-hop All-reduce with Ultimate Compression</strong>
+<br/>Feijie Wu, <u><em>Shiqi He</em></U>, Song Guo, Zhihao Qu, Haozhao Wang, Weihua Zhuang, Jie Zhang
+<br/> 2022 59th ACM/IEEE Design Automation Conference (DAC) (Acceptance rate: 23%)
+</li>
+
 <li>
 <strong>On the Convergence of Quantized Parallel Restarted SGD for Serverless Learning</strong>
 <br/>Feijie Wu, <u><em>Shiqi He</em></U>, Yutong Yang, Haozhao Wang, Zhihao Qu, Song Guo
