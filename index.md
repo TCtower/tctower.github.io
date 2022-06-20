@@ -58,7 +58,7 @@ sss -->
  <li>
 <strong>Sign Bit is Enough: A Learning Synchronization Framework for Multi-hop All-reduce with Ultimate Compression</strong>
 <br/>Feijie Wu, <u><em>Shiqi He</em></U>, Song Guo, Zhihao Qu, Haozhao Wang, Weihua Zhuang, Jie Zhang
-<br/> 2022 59th ACM/IEEE Design Automation Conference (DAC) (Acceptance rate: 23%)
+<br/> 2022 59th ACM/IEEE Design Automation Conference (DAC) (Acceptance rate: 23%) [<a href="https://arxiv.org/pdf/2204.06787.pdf" title="p1">.pdf</a>]
 </li>
 
 <li>
