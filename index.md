@@ -81,7 +81,7 @@ sss -->
 <li>
 <strong>Augmenting Operations Research with Auto-Formulation of Optimization Models from Problem Descriptions</strong>
 <br/>Rindranirina Ramamonjison, Haley Li, Timothy T. Yu, <u><em>Shiqi He</em></U>, Vishnu Rengan, Amin Banitalebi-Dehkordi, Zirui Zhou, Yong Zhang
-<br/> <em style="color:lightseagreen;">To appear</em> in Empirical Methods in Natural Language Processing (EMNLP 2022) [<a href="https://arxiv.org/pdf/2209.15565.pdf" title="p3">.pdf</a>]
+<br/> <em style="color:seagreen;">To appear</em> in Empirical Methods in Natural Language Processing (EMNLP 2022) [<a href="https://arxiv.org/pdf/2209.15565.pdf" title="p3">.pdf</a>]
 </li>
 
 <li>
