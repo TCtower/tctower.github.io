@@ -38,11 +38,11 @@ body{ /* Normal  */
 }
 
 .page{
-    padding-right: 15%;
+    padding-right: 5%;
 }
 
 table{
-    padding-left:7%;
+    padding-left:12%;
 }
 </style>
 

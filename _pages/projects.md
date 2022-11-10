@@ -3,7 +3,7 @@ title: "Projects"
 permalink: /projects/
 layout: single
 toc: true
-last_modified_at: 2022-01-08
+last_modified_at: 2022-11-08
 author_profile: true
 toc_label: "Contents"
 toc_icon: "cog"
@@ -39,17 +39,18 @@ body{ /* Normal  */
 
 .page{
     padding-right: 15%;
+    font-size: 15px;
 }
 </style>
 
 <!-- # Heading
 sss -->
-# 2021
+# 2022
 <ul>
  <li>
 <strong>Sign Bit is Enough: A Learning Synchronization Framework for Multi-hop All-reduce with Ultimate Compression</strong>
-<br/>Feijie Wu, <u><em>Shiqi He</em></U>, Song Guo, Zhihao Qu, Haozhao Wang, Weihua Zhuang, Jie Zhang
-<br/> 2022 59th ACM/IEEE Design Automation Conference (DAC) (Acceptance rate: 23%) [<a href="https://arxiv.org/pdf/2204.06787.pdf" title="p1">.pdf</a>]
+<br/>Feijie Wu*, <u><em>Shiqi He*</em></U>, Song Guo, Zhihao Qu, Haozhao Wang, Weihua Zhuang, Jie Zhang
+<br/> Design Automation Conference (DAC 2022) [<a href="https://arxiv.org/pdf/2204.06787.pdf" title="p1">.pdf</a>]
 </li>
 </ul>
 

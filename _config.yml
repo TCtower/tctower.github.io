@@ -117,6 +117,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tctower"
+    - label: "博客园"
+      icon: "fa fa-rss"
+      url: "https://www.cnblogs.com/hoskey"
 
 # Site Footer
 footer:
@@ -127,6 +130,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tctower"
+    - label: "博客园"
+      icon: "fa fa-rss"
+      url: "https://www.cnblogs.com/hoskey"
 
 
 # Reading Files
