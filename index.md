@@ -50,7 +50,7 @@ Welcome to my homepage!
 
 <!-- <br />  -->
 
-I’m a Computer Science MSc student at [The University of British Columbia](https://www.ubc.ca/), working with [Prof. Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/). I completed my Bachelor’s in Computing at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/).
+I’m a Computer Science MSc student at [The University of British Columbia](https://www.ubc.ca/), working with [Prof. Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/) and [Prof. Mathias Lécuyer](http://mathias.lecuyer.me/). I completed my Bachelor’s in Computing at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/).
 
 My research interests involve <em>distributed system</em>, <em>cloud computing</em> and <em>machine learning</em>. In 2019, I did an internship at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), working with [Dr. Yang Chen](https://www.microsoft.com/en-us/research/people/yachen/). We worked on [Forerunner](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/3477132.3483564.pdf), a novel technique that accelerates block validation process in [Ethereum](https://ethereum.org/en/).  In 2020, I finished my undergraduate thesis under the supervision of [Prof. Song Guo](https://www4.comp.polyu.edu.hk/~cssongguo/). My thesis was about developing new compression techniques in distributed machine learning. Currently, we are working on evaluating compression techniques in Federated Learning at UBC with [Huawei](https://www.huawei.com/ca/).
 
