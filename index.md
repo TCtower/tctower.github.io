@@ -69,7 +69,7 @@ sss -->
 <li>
 <strong>GlueFL: Reconciling Client Sampling and Model Masking for Bandwidth Efficient Federated Learning</strong>
 <br/><u><em>Shiqi He</em></U>, Qifan Yan, Feijie Wu, Lanjun Wang, Mathias Lécuyer, Ivan Beschastnikh 
-<br/> <em style="color:#cc6600;">Submitted</em> to Conference on Machine Learning and Systems (MLSys 2023)
+<br/> <em style="color:#cc6600;">Submitted</em> to Conference on Machine Learning and Systems (MLSys 2023) [<a href="https://arxiv.org/pdf/2212.01523.pdf" title="p4">.pdf</a>]
 </li>
 
 <li>
