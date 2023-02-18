@@ -66,22 +66,23 @@ sss -->
 </ul>
 ## Publications & Pre-prints
 <ul>
-<li>
-<strong>GlueFL: Reconciling Client Sampling and Model Masking for Bandwidth Efficient Federated Learning</strong>
-<br/><u><em>Shiqi He</em></U>, Qifan Yan, Feijie Wu, Lanjun Wang, Mathias Lécuyer, Ivan Beschastnikh 
-<br/> <em style="color:#cc6600;">Submitted</em> to Conference on Machine Learning and Systems (MLSys 2023) [<a href="https://arxiv.org/pdf/2212.01523.pdf" title="p4">.pdf</a>]
-</li>
 
 <li>
 <strong>Anchor Sampling for Federated Learning with Partial Client Participation</strong>
 <br/>Feijie Wu, Song Guo, Zhihao Qu, <u><em>Shiqi He</em></U>, Ziming Liu
-<br/> <em style="color:#cc6600;">Submitted</em> to International Conference on Learning Representations (ICLR 2023) [<a href="https://arxiv.org/pdf/2206.05891.pdf" title="p4">.pdf</a>]
+<br/> <em style="color:#cc6600;">Submitted</em> to International Conference on Machine Learning (ICML 2023) [<a href="https://arxiv.org/pdf/2206.05891.pdf" title="p4">.pdf</a>]
+</li>
+
+<li>
+<strong>GlueFL: Reconciling Client Sampling and Model Masking for Bandwidth Efficient Federated Learning</strong>
+<br/><u><em>Shiqi He</em></U>, Qifan Yan, Feijie Wu, Lanjun Wang, Mathias Lécuyer, Ivan Beschastnikh 
+<br/> <em style="color:seagreen;">To appear</em> in Conference on Machine Learning and Systems (MLSys 2023) [<a href="https://arxiv.org/pdf/2212.01523.pdf" title="p4">.pdf</a>]
 </li>
 
 <li>
 <strong>Augmenting Operations Research with Auto-Formulation of Optimization Models from Problem Descriptions</strong>
 <br/>Rindranirina Ramamonjison, Haley Li, Timothy T. Yu, <u><em>Shiqi He</em></U>, Vishnu Rengan, Amin Banitalebi-Dehkordi, Zirui Zhou, Yong Zhang
-<br/> <em style="color:seagreen;">To appear</em> in Empirical Methods in Natural Language Processing (EMNLP 2022) [<a href="https://arxiv.org/pdf/2209.15565.pdf" title="p3">.pdf</a>]
+<br/> Empirical Methods in Natural Language Processing (EMNLP 2022) [<a href="https://arxiv.org/pdf/2209.15565.pdf" title="p3">.pdf</a>]
 </li>
 
 <li>
