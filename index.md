@@ -71,7 +71,7 @@ sss -->
 <li>
 <strong>Anchor Sampling for Federated Learning with Partial Client Participation</strong>
 <br/>Feijie Wu, Song Guo, Zhihao Qu, <u><em>Shiqi He</em></U>, Ziming Liu, Jing Gao
-<br/> <em style="color:seagreen;">To appear</em> to International Conference on Machine Learning (ICML 2023) [<a href="https://arxiv.org/pdf/2206.05891.pdf" title="p4">.pdf</a>]
+<br/> <em style="color:seagreen;">To appear</em> in International Conference on Machine Learning (ICML 2023) [<a href="https://arxiv.org/pdf/2206.05891.pdf" title="p4">.pdf</a>]
 </li>
 
 <li>
