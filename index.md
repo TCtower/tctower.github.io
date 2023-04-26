@@ -50,9 +50,9 @@ Welcome to my homepage!
 
 <!-- <br />  -->
 
-I’m a Computer Science MSc student at [The University of British Columbia](https://www.ubc.ca/), working with [Prof. Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/) and [Prof. Mathias Lécuyer](http://mathias.lecuyer.me/). I completed my Bachelor’s in Computing at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/).
+I’m a first-year PhD student in [Computer Science and Engineering](https://www.cse.umich.edu/) at [University of Michigan, Ann Arbor](https://www.umich.edu/), advised by [Prof. Mosharaf Chowdhury](https://www.mosharaf.com/). Before UMich, I completed my MSc in Computer Science at [University of British Columbia](https://www.ubc.ca/), working with [Prof. Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/) and [Prof. Mathias Lécuyer](http://mathias.lecuyer.me/). I obtained my Bachelor’s in Computing at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/).
 
-My research interests involve <em>distributed system</em>, <em>cloud computing</em> and <em>machine learning</em>. In 2019, I did an internship at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), working with [Dr. Yang Chen](https://www.microsoft.com/en-us/research/people/yachen/). We worked on [Forerunner](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/3477132.3483564.pdf), a novel technique that accelerates block validation process in [Ethereum](https://ethereum.org/en/).  In 2020, I finished my undergraduate thesis under the supervision of [Prof. Song Guo](https://www4.comp.polyu.edu.hk/~cssongguo/). My thesis was about developing new compression techniques in distributed machine learning. Currently, we are working on evaluating compression techniques in Federated Learning at UBC with [Huawei](https://www.huawei.com/ca/).
+My current research interests involve <em>distributed system</em>, <em>cloud computing</em> and <em>machine learning</em>. In my MSc work, I proposed [GlueFL](https://arxiv.org/abs/2212.01523), a federated learning framework designed to optimize downstream bandwidth. Prior to this, I finished my undergraduate thesis under the supervision of [Prof. Song Guo](https://www4.comp.polyu.edu.hk/~cssongguo/). My thesis was about developing new compression techniques in distributed machine learning. Even before, I did an internship at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), working with [Dr. Yang Chen](https://www.microsoft.com/en-us/research/people/yachen/). We worked on [Forerunner](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/3477132.3483564.pdf), a novel technique that accelerates block validation process in [Ethereum](https://ethereum.org/en/).
 
 I love solving algorithm problems. In past years, I participated in a number of programming contests, such as [ACM ICPC Regional Contest](https://icpc.global/), [IEEEXtreme](https://ieeextreme.org/), and [National Olympiad in Informatics in Province](https://www.noi.cn/). I am also an experienced codeforces [user](https://codeforces.com/profile/TCtower) :).
 <!-- # Heading
@@ -66,11 +66,12 @@ sss -->
 </ul>
 ## Publications & Pre-prints
 <ul>
-
+<!-- <em style="color:#cc6600;">Submitted</em> -->
+<!-- <em style="color:seagreen;">To appear</em> -->
 <li>
 <strong>Anchor Sampling for Federated Learning with Partial Client Participation</strong>
-<br/>Feijie Wu, Song Guo, Zhihao Qu, <u><em>Shiqi He</em></U>, Ziming Liu
-<br/> <em style="color:#cc6600;">Submitted</em> to International Conference on Machine Learning (ICML 2023) [<a href="https://arxiv.org/pdf/2206.05891.pdf" title="p4">.pdf</a>]
+<br/>Feijie Wu, Song Guo, Zhihao Qu, <u><em>Shiqi He</em></U>, Ziming Liu, Jing Gao
+<br/> <em style="color:seagreen;">To appear</em> to International Conference on Machine Learning (ICML 2023) [<a href="https://arxiv.org/pdf/2206.05891.pdf" title="p4">.pdf</a>]
 </li>
 
 <li>

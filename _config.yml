@@ -99,12 +99,12 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
+#fe6600
 # Site Author
 author:
   name             : "Shiqi HE"
   avatar           : "/assets/images/shiqi.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Master's student @ UBC Systopia <br/> tchoskey (at) gmail.com"
+  bio              : "[PhD student @ SymbioticLab](https://symbioticlab.org/) <br/> tchoskey (at) gmail.com"
   location         : "Vancouver, Canada"
   email            :
   links:
