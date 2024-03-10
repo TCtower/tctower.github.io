@@ -65,16 +65,16 @@ sss -->
 ## News
 <ul>
 <li>
-<strong>Sep 2023</strong> - Starting my PhD at UMich!
+<strong>2023-09</strong> - Starting my PhD at UMich!
 </li>
 <li>
-<strong>June 2023</strong> - Working as a research assistant at HKUST, under the supervision of <a href="https://www.cse.ust.hk/~weiwa/" title="c4">Prof. Wei Wang</a>.
+<strong>2023-06</strong> - Working as a research assistant at HKUST, under the supervision of <a href="https://www.cse.ust.hk/~weiwa/" title="c4">Prof. Wei Wang</a>.
 </li>
 <li>
-<strong>Feb 2023</strong> - <a href="https://arxiv.org/pdf/2212.01523.pdf" title="c4"> GlueFL </a> has been accepted to MLSys 2023.
+<strong>2023-02</strong> - <a href="https://arxiv.org/pdf/2212.01523.pdf" title="c4">GlueFL</a> has been accepted to MLSys 2023.
 </li>
 <li>
-<strong>July 2022</strong> - Join our competition at NeurIPS 2022! 
+<strong>2022-07</strong> - Join our competition at NeurIPS 2022! 
 <br/><a href="https://nl4opt.github.io/" title="c4"> NL4Opt: Formulating Optimization Problems Based on Their Natural Language Descriptions </a>
 </li>
 </ul>
