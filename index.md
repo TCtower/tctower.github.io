@@ -94,7 +94,7 @@ sss -->
 <!-- <em style="color:seagreen;">To appear</em> -->
 <li>
 <strong>FedFetch: Faster Federated Learning with Adaptive Downstream Prefetching</strong>
-<br/>Qifan Yan , Andrew Liu , <u><em>Shiqi He</em></U>, Mathias Lecuyer , Ivan Beschastnikh
+<br/>Qifan Yan, Andrew Liu, <u><em>Shiqi He</em></U>, Mathias Lecuyer, Ivan Beschastnikh
 <br/> <em style="color:#800017;"> INFOCOM 2025 </em>  
 </li>
   
