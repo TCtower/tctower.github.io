@@ -77,7 +77,7 @@ sss -->
 <strong>2023-06</strong> - Working as a research assistant at HKUST, under the supervision of <a href="https://www.cse.ust.hk/~weiwa/" title="c4">Prof. Wei Wang</a>.
 </li>
 <li>
-<strong>2023-02</strong> - <a href="https://arxiv.org/pdf/2206.05891.pdf" title="c4">FedAMD</a> has been accepted to ICML 2023.
+<strong>2023-05</strong> - <a href="https://arxiv.org/pdf/2206.05891.pdf" title="c4">FedAMD</a> has been accepted to ICML 2023.
 </li>
 <li>
 <strong>2023-02</strong> - <a href="https://arxiv.org/pdf/2212.01523.pdf" title="c4">GlueFL</a> has been accepted to MLSys 2023.
