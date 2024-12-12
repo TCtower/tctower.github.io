@@ -65,10 +65,10 @@ sss -->
 ## News
 <ul>
 <li>
-<strong>2024-12</strong> - FedFetch has been accepted to INFOCOM 2025
+<strong>2024-12</strong> - FedFetch has been accepted to INFOCOM 2025.
 </li>
 <li>
-<strong>2024-05</strong> - <a href="https://www.usenix.org/system/files/usenixsecurity24-jiang-zhifeng.pdf" title="c4">Lotto</a> has been accepted to USENIX Security 2024
+<strong>2024-05</strong> - <a href="https://www.usenix.org/system/files/usenixsecurity24-jiang-zhifeng.pdf" title="c4">Lotto</a> has been accepted to USENIX Security 2024.
 </li>
 <li>
 <strong>2023-09</strong> - Starting my PhD at UMich!
