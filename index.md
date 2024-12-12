@@ -65,10 +65,19 @@ sss -->
 ## News
 <ul>
 <li>
+<strong>2024-12</strong> - FedFetch has been accepted to INFOCOM 2025
+</li>
+<li>
+<strong>2024-05</strong> - <a href="https://www.usenix.org/system/files/usenixsecurity24-jiang-zhifeng.pdf" title="c4">Lotto</a> has been accepted to USENIX Security 2024
+</li>
+<li>
 <strong>2023-09</strong> - Starting my PhD at UMich!
 </li>
 <li>
 <strong>2023-06</strong> - Working as a research assistant at HKUST, under the supervision of <a href="https://www.cse.ust.hk/~weiwa/" title="c4">Prof. Wei Wang</a>.
+</li>
+<li>
+<strong>2023-02</strong> - <a href="https://arxiv.org/pdf/2206.05891.pdf" title="c4">FedAMD</a> has been accepted to ICML 2023.
 </li>
 <li>
 <strong>2023-02</strong> - <a href="https://arxiv.org/pdf/2212.01523.pdf" title="c4">GlueFL</a> has been accepted to MLSys 2023.
@@ -84,9 +93,15 @@ sss -->
 <!-- <em style="color:#cc6600;">Submitted</em> -->
 <!-- <em style="color:seagreen;">To appear</em> -->
 <li>
+<strong>FedFetch: Faster Federated Learning with Adaptive Downstream Prefetching</strong>
+<br/>Qifan Yan , Andrew Liu , <u><em>Shiqi He</em></U>, Mathias Lecuyer , Ivan Beschastnikh
+<br/> <em style="color:#800017;"> INFOCOM 2025 </em>  
+</li>
+  
+<li>
 <strong>Lotto: Secure Participant Selection against Adversarial Servers in Federated Learning</strong>
 <br/>Zhifeng Jiang, Peng Ye, <u><em>Shiqi He</em></U>, Wei Wang, Ruichuan Chen, Bo Li
-<br/> <em style="color:#800017;"> USENIX Security Symposium 2024 </em>  [<a href="https://arxiv.org/pdf/2206.05891.pdf" title="p4">.pdf</a>] 
+<br/> <em style="color:#800017;"> USENIX Security Symposium 2024 </em>  [<a href="https://www.usenix.org/system/files/usenixsecurity24-jiang-zhifeng.pdf" title="p4">.pdf</a>] 
 </li>
 
 
