@@ -50,7 +50,7 @@ Welcome to my homepage!
 
 <!-- <br />  -->
 
-I’m a first-year PhD student in [Computer Science and Engineering](https://www.cse.umich.edu/) at [University of Michigan, Ann Arbor](https://www.umich.edu/), advised by [Prof. Mosharaf Chowdhury](https://www.mosharaf.com/). My current research interests involve <em>Multimodal Model Training</em>, <em>Large Model Systems</em> and <em>Distributed Machine Learning</em>. 
+I’m a second-year PhD student in [Computer Science and Engineering](https://www.cse.umich.edu/) at [University of Michigan, Ann Arbor](https://www.umich.edu/), advised by [Prof. Mosharaf Chowdhury](https://www.mosharaf.com/). My current research interests involve <em>Multimodal Model Training</em>, <em>Large Model Systems</em> and <em>Distributed Machine Learning</em>. 
 
 Before UMich, I completed my MSc in Computer Science at [University of British Columbia](https://www.ubc.ca/), working with [Prof. Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/) and [Prof. Mathias Lécuyer](http://mathias.lecuyer.me/). I obtained my Bachelor’s in Computing at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), under the supervision of [Prof. Song Guo](https://cse.hkust.edu.hk/~songguo/).
 
