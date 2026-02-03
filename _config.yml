@@ -105,7 +105,7 @@ author:
   name             : "Shiqi HE"
   avatar           : "/assets/images/shiqi.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "[PhD student @ SymbioticLab](https://symbioticlab.org/) <br/> tchoskey (at) gmail.com"
-  location         : "Vancouver, Canada"
+  location         : "Ann Arbor, MI, USA"
   email            :
   links:
     # - label: "Email"
@@ -117,6 +117,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tctower"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=9eYlWYAAAAAJ&hl=en"
     - label: "博客园"
       icon: "fa fa-rss"
       url: "https://www.cnblogs.com/hoskey"
@@ -130,6 +133,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tctower"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=9eYlWYAAAAAJ&hl=en"
     - label: "博客园"
       icon: "fa fa-rss"
       url: "https://www.cnblogs.com/hoskey"

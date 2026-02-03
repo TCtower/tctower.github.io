@@ -1,18 +1,11 @@
-# main links
-main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: /
-  - title: "Projects"
-    url: /projects/
-  - title: "Resumé"
-    url: /assets/pdf/resume.pdf
-  - title: "Musics"
-    url: /musics/
-  
-    
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
+
+group :jekyll_plugins do
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jekyll-feed"
+end

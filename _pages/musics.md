@@ -3,7 +3,6 @@ title: "Musics"
 permalink: /musics/
 layout: single
 toc: false
-last_modified_at: 2022-01-08
 author_profile: true
 toc_label: "Contents"
 toc_icon: "cog"
@@ -50,7 +49,7 @@ I am a fan of classical music. My favoriate composer is [Franz Schubert](https:/
 
 > “The essence of the beautiful is unity in variety.” - Felix Mendelssohn
 
-## 2021 Most Played Pieces 
+## Most Played Pieces 
 
 | Rank | Name      | Composer    | Number of plays     |
 |    :----:   | :---        |   :----:   |   :----:   |
