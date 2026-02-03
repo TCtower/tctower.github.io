@@ -200,13 +200,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <li>
 <strong>GlueFL: Reconciling Client Sampling and Model Masking for Bandwidth Efficient Federated Learning</strong>
 <br/><u><em>Shiqi He</em></U>, Qifan Yan, Feijie Wu, Lanjun Wang, Mathias Lécuyer, Ivan Beschastnikh 
-<br/> <em style="color:#800017;"> MLSys 2023 </em> [<a href="https://arxiv.org/pdf/2212.01523.pdf" title="p4">.pdf</a>]
+<br/> <em style="color:#800017;"> MLSys 2023 </em> [<a href="https://arxiv.org/pdf/2212.01523" title="p4">.pdf</a>]
 </li>
 
 <li>
 <strong>NL4Opt Competition: Formulating Optimization Problems Based on Their Natural Language Descriptions</strong>
 <br/>Rindranirina Ramamonjison, Timothy Yu, Raymond Li, Haley Li, Giuseppe Carenini, Bissan Ghaddar, <u><em>Shiqi He</em></U>, Mahdi Mostajabdaveh, Amin Banitalebi-Dehkordi, Zirui Zhou, Yong Zhang
-<br/> <em style="color:#800017;"> NeurIPS 2022 Competitions </em> [<a href="https://arxiv.org/pdf/2209.15565.pdf" title="p3">.pdf</a>]
+<br/> <em style="color:#800017;"> NeurIPS 2022 Competitions </em> [<a href="https://arxiv.org/pdf/2303.08233" title="p3">.pdf</a>]
 </li>
 
 <!-- <li>
