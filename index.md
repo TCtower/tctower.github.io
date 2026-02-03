@@ -163,7 +163,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <strong>Branch-and-Browse: Efficient and Controllable Web Exploration with Tree-Structured Reasoning and Action Memory
 </strong>
 <br/><u><em>Shiqi He</em></U>, Yue Cui, Xinyu Ma, Yaliang Li, Bolin Ding, Mosharaf Chowdhury
-<br/> <em style="color:#800017;"> arXiv </em>  [<a href="https://arxiv.org/pdf/2510.19838" title="p4">.pdf</a>] 
+<br/> <em style="color:#800017;"> arXiv Preprint </em>  [<a href="https://arxiv.org/pdf/2510.19838" title="p4">.pdf</a>] 
 </li>
 
 <li>
