@@ -90,7 +90,7 @@ sss -->
 </li>
 <li class="news-item">
 <strong>2025-06</strong> - Work as a research intern at Alibaba Tongyi Lab.
-<br/><a href="hhttps://github.com/agentscope-ai/agentscope/" title="c4"> AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications </a>
+<br/><a href="https://github.com/agentscope-ai/agentscope/" title="c4"> AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications </a>
 </li>
 <li class="news-item">
 <strong>2024-12</strong> - <a href="https://www.cs.ubc.ca/~bestchai/papers/infocom25-fedfetch.pdf">FedFetch</a> has been accepted to INFOCOM 2025.
