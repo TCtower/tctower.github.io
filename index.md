@@ -89,6 +89,10 @@ sss -->
 <strong>2026-01</strong> - <a href="https://arxiv.org/pdf/2510.01565" title="tetriserve">TetriServe</a> has been accepted to ASPLOS 2026.
 </li>
 <li class="news-item">
+<strong>2026-01</strong> - Work as a graduate student instructor at UMich. 
+<br/><a href="https://github.com/mosharaf/cse585/tree/w26" title="cse585">CSE 585: Advanced Scalable Systems for Agentic AI</a>
+</li>
+<li class="news-item">
 <strong>2025-06</strong> - Work as a research intern at Alibaba Tongyi Lab.
 <br/><a href="https://github.com/agentscope-ai/agentscope/" title="c4"> AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications </a>
 </li>
