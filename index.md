@@ -83,6 +83,9 @@ sss -->
 ## News
 <ul id="news-list">
 <li class="news-item">
+<strong>2026-04</strong> - <a href="https://arxiv.org/pdf/2510.19838" title="branch-and-browse">Branch-and-Browse</a> has been accepted to ACL 2026.
+</li>
+<li class="news-item">
 <strong>2026-01</strong> - <a href="https://arxiv.org/pdf/2502.00241" title="mordal">Mordal</a> has been accepted to ICLR 2026.
 </li>
 <li class="news-item">
@@ -164,10 +167,16 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 <li>
+<strong>Beyond Domains: Reusing Web Skills via Transferable Interaction Patterns</strong>
+<br/><u><em>Shiqi He</em></U>, Yue Cui, Feijie Wu, Xinyu Ma, Jiaheng Lu, Yaliang Li, Bolin Ding, Mosharaf Chowdhury
+<br/> <em style="color:#800017;"> arXiv Preprint </em>  [<a href="https://arxiv.org/pdf/2606.17645" title="p4">.pdf</a>] 
+</li>
+
+<li>
 <strong>Branch-and-Browse: Efficient and Controllable Web Exploration with Tree-Structured Reasoning and Action Memory
 </strong>
 <br/><u><em>Shiqi He</em></U>, Yue Cui, Xinyu Ma, Yaliang Li, Bolin Ding, Mosharaf Chowdhury
-<br/> <em style="color:#800017;"> arXiv Preprint </em>  [<a href="https://arxiv.org/pdf/2510.19838" title="p4">.pdf</a>] 
+<br/> <em style="color:#800017;"> ACL 2026 </em>  [<a href="https://arxiv.org/pdf/2510.19838" title="p4">.pdf</a>] 
 </li>
 
 <li>
