@@ -68,7 +68,7 @@ Welcome to my homepage!
 
 <!-- <br />  -->
 
-I’m a third-year PhD student in [Computer Science and Engineering](https://www.cse.umich.edu/) at [University of Michigan, Ann Arbor](https://www.umich.edu/), advised by [Prof. Mosharaf Chowdhury](https://www.mosharaf.com/). My current research interests involve <em>Agentic AI Systems</em>, <em>Multimodal Model Training</em> and <em>Distributed Machine Learning</em>. 
+I’m a fourth-year PhD student in [Computer Science and Engineering](https://www.cse.umich.edu/) at [University of Michigan, Ann Arbor](https://www.umich.edu/), advised by [Prof. Mosharaf Chowdhury](https://www.mosharaf.com/). My current research interests involve <em>Efficient Computer-Use Agents</em>, <em>Agentic AI Systems</em> and <em>Multimodal Agents</em>. 
 
 Before UMich, I completed my MSc in Computer Science at [University of British Columbia](https://www.ubc.ca/), working with [Prof. Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/) and [Prof. Mathias Lécuyer](http://mathias.lecuyer.me/). I obtained my Bachelor’s in Computing at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), under the supervision of [Prof. Song Guo](https://cse.hkust.edu.hk/~songguo/).
 
@@ -82,6 +82,9 @@ sss -->
 
 ## News
 <ul id="news-list">
+<li class="news-item">
+<strong>2026-09</strong> - <a href="https://arxiv.org/pdf/2606.17645" title="beyond-domains">Beyond Domains</a> has been accepted to NeurIPS 2026.
+</li>
 <li class="news-item">
 <strong>2026-04</strong> - <a href="https://arxiv.org/pdf/2510.19838" title="branch-and-browse">Branch-and-Browse</a> has been accepted to ACL 2026.
 </li>
@@ -167,9 +170,15 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 <li>
+<strong>BrowSA: Semantic Aware Sparse Attention for Web Agents</strong>
+<br/>Jiaheng Lu, <u><em>Shiqi He</em></U>, Xian Wang, Xuting Liu, Zhuoming Chen, Chuyue Wang, Jiaming Liang, Haizhong Zheng, Linh Phan, Mosharaf Chowdhury, Beidi Chen, Vincent Liu
+<br/> <em style="color:#800017;"> arXiv Preprint </em>
+</li>
+
+<li>
 <strong>Beyond Domains: Reusing Web Skills via Transferable Interaction Patterns</strong>
 <br/><u><em>Shiqi He</em></U>, Yue Cui, Feijie Wu, Xinyu Ma, Jiaheng Lu, Yaliang Li, Bolin Ding, Mosharaf Chowdhury
-<br/> <em style="color:#800017;"> arXiv Preprint </em>  [<a href="https://arxiv.org/pdf/2606.17645" title="p4">.pdf</a>] 
+<br/> <em style="color:#800017;"> NeurIPS 2026 </em>  [<a href="https://arxiv.org/pdf/2606.17645" title="p4">.pdf</a>] 
 </li>
 
 <li>
